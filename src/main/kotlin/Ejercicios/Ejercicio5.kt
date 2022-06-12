@@ -1,4 +1,4 @@
 package Ejercicios
 
-class Ejercicio5 {
+fun main(){
 }
